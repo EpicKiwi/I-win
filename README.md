@@ -17,7 +17,7 @@ Améliorations possibles :
 ## Sommaire
 
 * **[Recherches](Recherches)** Dossier contenant toutes les recherchez effectués pour aboutir au projet actuel
-* **[Développement](Developpement)** Dossier d’expérimentations libre dans lequel chacun peut créer un projet permettant d'avancer sur le développement du projet
+* **[Développement](Développement)** Dossier d’expérimentations libre dans lequel chacun peut créer un projet permettant d'avancer sur le développement du projet
 
 ### Principes
 
