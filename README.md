@@ -12,6 +12,16 @@ Améliorations possibles :
 
 * Système permettant de suivre tout les mouvements du joueur et non seulement la position
 * Machine learning permettant de faire des propositions de bon placement
+* Bracelet transmettant le poul, la pression arterielle, etc. du joueur.
+
+## Sommaire
+
+* **[Recherches](Recherches)** Dossier contenant toutes les recherchez effectués pour aboutir au projet actuel
+* **[Développement](Developpement)** Dossier d’expérimentations libre dans lequel chacun peut créer un projet permettant d'avancer sur le développement du projet
+
+### Principes
+
+Pensez à bien lire les `README.md` pour connaître l'objectif de chaque dossier et de respecter au maximum l'organisation donnée. Tout cela permet d'avancer plus rapidement et que chacun connaisse l'avancée du projet.
 
 ## Participer
 
