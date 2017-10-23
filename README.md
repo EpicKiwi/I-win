@@ -25,4 +25,4 @@ Pensez à bien lire les `README.md` pour connaître l'objectif de chaque dossier
 
 ## Participer
 
-Pour participer, envoyez un main à [baptiste.saclier@viacesi.fr](mailto:baptiste.saclier@viacesi.fr).
+Pour participer, envoyez un mail à [baptiste.saclier@viacesi.fr](mailto:baptiste.saclier@viacesi.fr).
