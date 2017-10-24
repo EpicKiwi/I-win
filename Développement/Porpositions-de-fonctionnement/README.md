@@ -9,4 +9,4 @@ Les interfcaes fixes sont les capteurs placés sur les murs du terrain et les in
 * [Infrarouge](Infrarouge.md)
 * [Gps like](Gps-like.md)
 * [Gps inversé](Gps-inversé.md)
-* [Accelereometre](Accelereometre.md)
+* [Accelereometre](Accelerometre.md)
