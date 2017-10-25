@@ -4,4 +4,4 @@
 * 5 Récepteurs ultrason à forte sensibilité
 * 1 Éméteur Infrarouge
 * 7 Recepteurs infrarouge
-* 5 Arduinos
+* 4 Arduinos
